@@ -2,7 +2,7 @@
 <h3 align="center">無駄なものを作っています</h3>
 
 - Discord: boo!#9235
-- C++ , Python 
+- C++, Python 
 - Pixel Gun 3D
 - 言語
   - <a href=""><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" width=40 height=40>, <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%2B%2B.svg" width=45 height=45></a>
