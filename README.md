@@ -11,7 +11,7 @@
   
 <p align="center">
   <a href=""><img src="https://github-readme-stats.vercel.app/api?username=BUCCImu&show_icons=true&bg_color=242424&text_color=ffffff&title_color=ffffff&&icon_color=ffffff"></a> <br>
-  <a href=""><img src="https://komarev.com/ghpvc/?username=BUCCImu&color=green"></a>
+             <a href=""><img src="https://komarev.com/ghpvc/?username=BUCCImu&color=green"></a>
   
   <a href=""><img src="https://img.shields.io/github/stars/BUCCImu?style=social"></a> ● <a href=""><img src="https://img.shields.io/github/followers/BUCCImu?style=social"></a>
 </p>
