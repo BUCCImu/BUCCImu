@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">BUCCI</h1>
+<h3 align="center">無駄なものを作っています</h3>
 
-<!--
-**BUCCImu/BUCCImu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Discord: boo!#9235
+- C++ 
+- Pixel Gun 3D
+- Languages
+  - <a href=""><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" width=40 height=40>, <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%2B%2B.svg" width=45 height=45></a>
+- IDEs
+  - <a href=""><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" width=40 height=40>,  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/vs-studio.svg" width=45 height=45>
+  
+<p align="center">
+  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=YeetDisDude&show_icons=true&bg_color=242424&text_color=ffffff&title_color=ffffff&&icon_color=ffffff"></a> <br>
+  <a href=""><img src="https://komarev.com/ghpvc/?username=YeetDisDude&color=green"></a>
+  <a href=""><img src="https://img.shields.io/reddit/user-karma/combined/YeetDisDude?style=social"></a>
+  <br>
+  <a href=""><img src="https://img.shields.io/github/stars/YeetDisDude?style=social"></a> ● <a href=""><img src="https://img.shields.io/github/followers/YeetDisDude?style=social"></a>
+</p>
