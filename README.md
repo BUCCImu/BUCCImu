@@ -10,7 +10,7 @@
   - <a href=""><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" width=40 height=40>,  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/vs-studio.svg" width=45 height=45>
   
 <p align="center">
-  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=YeetDisDude&show_icons=true&bg_color=242424&text_color=ffffff&title_color=ffffff&&icon_color=ffffff"></a> <br>
+  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=BUCCI&show_icons=true&bg_color=242424&text_color=ffffff&title_color=ffffff&&icon_color=ffffff"></a> <br>
   <a href=""><img src="https://komarev.com/ghpvc/?username=YeetDisDude&color=green"></a>
   <a href=""><img src="https://img.shields.io/reddit/user-karma/combined/YeetDisDude?style=social"></a>
   <br>
