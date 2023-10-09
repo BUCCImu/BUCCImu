@@ -1,5 +1,5 @@
 <h1 align="center">BUCCI</h1>
-<h3 align="center">無駄なものを作っています</h3>
+<h3 align="center">ゴミ</h3>
 
 - Discord: boo!#9235
 - C++, Python 
